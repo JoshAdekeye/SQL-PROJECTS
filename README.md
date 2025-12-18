@@ -1,17 +1,20 @@
-# SQL-exercise
-Schemas, Questions &amp; Solutions for SQL Exercising
+# SQL Exercises
+Schemas, Questions & Solutions for practicing SQL
 
 ## Introduction
-The schemas and questions are 
+This repository contains database schemas, exercise questions, and solutions for SQL practice.
 
-[1] from Wikibook **SQL Exercises** [https://en.wikibooks.org/wiki/SQL_Exercises]. Solutions are from both this Wikibook and me (exercise 1-8). I also added some questions by myself.
+The materials come from two sources:
 
-or
+Wikibooks – SQL Exercises: The schemas and questions are based on the Wikibooks SQL Exercises page (https://en.wikibooks.org/wiki/SQL_Exercises). 
+Solutions are taken from both the Wikibook and my own work (Exercises 1–8). I’ve also added a few extra questions.
 
-[2] given by me using some practical examples I encountered (exercise 9-10).
+My own exercises: Exercises 9–10 are created by me and are based on practical examples I’ve encountered.
 
-## Repository Structure
-The repo structure is like below:
+Repository Structure
+
+The repository is organized as follows:
+
 ```
 SQL-exercise
 └───SQL_exercise_1
